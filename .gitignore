@@ -16,3 +16,9 @@ dist/
 # Media/static (generated)
 media/
 staticfiles/
+
+db.sqlite3
+*.sqlite3
+__pycache__/
+*.pyc
+.env
