@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Django
+*.sqlite3
+db.sqlite3
+.env
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# React/Vite
+dist/
+build/
+.vite/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.pem
+*.key
+
+# Android/Gradle if present
+.gradle/
+local.properties
+*/build/
