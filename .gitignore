@@ -1,4 +1,5 @@
 # Python
+<<<<<<< HEAD
 __pycache__/
 *.py[cod]
 *.pyo
@@ -42,3 +43,22 @@ Thumbs.db
 .gradle/
 local.properties
 */build/
+=======
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+dist/
+.env.local
+
+# Editors / OS
+.vscode/
+.DS_Store
+
+# Media/static (generated)
+media/
+staticfiles/
+>>>>>>> origin/develop
